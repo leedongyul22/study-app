@@ -1,0 +1,6 @@
+streamlit>=1.40
+pymupdf
+requests
+pandas
+sqlalchemy
+psycopg2-binary
